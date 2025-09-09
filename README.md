@@ -3,7 +3,7 @@
 ---
 
 ````markdown
-# Iris - Cartoon Eye Tray App for macOS
+# Iris - Animated Eye Tray App for macOS
 
 **Author:** Shivansh Bagga
 
@@ -117,11 +117,4 @@ assets/iris_icon.icns
 **Shivansh Bagga**
 
 ---
-
-## License
-
-MIT License
-
-```
-
 ---
